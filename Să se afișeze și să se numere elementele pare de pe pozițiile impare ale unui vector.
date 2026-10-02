@@ -1,4 +1,4 @@
-Să se afișeze și să se numere elementele pare de pe pozițiile impare ale unui vector.
+//Să se afișeze și să se numere elementele pare de pe pozițiile impare ale unui vector.
 
 #include <iostream>
 using namespace std;
