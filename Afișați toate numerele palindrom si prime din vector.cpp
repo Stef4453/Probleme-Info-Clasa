@@ -21,6 +21,7 @@ int prm(int b) {
     for (int d = 2; d * d <= b; d++) {
         if (b % d == 0)
             prim = false;
+            break;
     }
 
     return prim;
