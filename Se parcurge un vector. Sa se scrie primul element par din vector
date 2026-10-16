@@ -1,3 +1,5 @@
+//Se parcurge un vector. Sa se scrie primul element par din vector
+
 #include <iostream>
 using namespace std;
 
