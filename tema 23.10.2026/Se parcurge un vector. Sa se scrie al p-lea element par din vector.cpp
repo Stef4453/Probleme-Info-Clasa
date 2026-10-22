@@ -10,7 +10,7 @@ int main() {
     int p = 0; cout << "p="; cin >> p;
     int pcount = p;
 
-    if (p > n) {
+    if (p > n || p == 0) {
         cout << "Nu exista al " << p << "-lea element in vector.";
         return 0;
 	}
